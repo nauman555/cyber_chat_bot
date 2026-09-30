@@ -1,0 +1,10 @@
+langchain>=0.1.0
+streamlit>=1.0.0
+langchain-openai>=0.1.0
+dotenv>=0.1.0
+langchain-google-genai>=0.1.0
+langchain-community>=0.1.0
+search1api-langchain>=0.1.0
+langchain-groq>=0.1.0
+langchain-text-splitters
+langchain-chroma
