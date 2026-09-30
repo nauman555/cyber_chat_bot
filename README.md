@@ -106,7 +106,6 @@ Grounded answer based on retrieved document context
 - The system is designed to answer based on the local knowledge base only.
 - It is intended for informational use and should not be treated as legal advice.
 - Critical legal or formal matters should be verified through official NCCIA, PECA, or qualified legal sources.
-- Local secrets and the virtual environment should not be committed to source control.
 
 ## Example use cases
 
